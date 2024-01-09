@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MticMonitorWebApp", "MticMonitorWebApp\MticMonitorWebApp.csproj", "{D9548EFC-9B41-4585-801E-DA0321CB8432}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MticMonitorWorkerService", "MticMonitorWorkerService\MticMonitorWorkerService.csproj", "{BE1D6CCD-4C75-4C3D-9568-1682C76D638F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D9548EFC-9B41-4585-801E-DA0321CB8432}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D9548EFC-9B41-4585-801E-DA0321CB8432}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D9548EFC-9B41-4585-801E-DA0321CB8432}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D9548EFC-9B41-4585-801E-DA0321CB8432}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BE1D6CCD-4C75-4C3D-9568-1682C76D638F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BE1D6CCD-4C75-4C3D-9568-1682C76D638F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BE1D6CCD-4C75-4C3D-9568-1682C76D638F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BE1D6CCD-4C75-4C3D-9568-1682C76D638F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
